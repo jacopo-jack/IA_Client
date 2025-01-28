@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<?xml-stylesheet type="text/xsl" href="chrome.xsl"?>
+<root>
+<homepages xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- su chrome in puro xml non funzionano i link bisogna poi capire. Su firefox va-->
+        <a  xlink:type="simple" xlink:href="documenti.xml">Documenti</a>
+        <a xlink:type="simple" xlink:href="iso.xml">ISO</a>
+</homepages>
+</root>

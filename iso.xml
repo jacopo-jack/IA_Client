@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<?xml-stylesheet type="text/xsl" href="chrome.xsl"?>
+<?xml-stylesheet type="text/xsl" href="iso.xsl"?>
+<!--dopo prologo seguire sintassi feed rss-->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Raccolta ISO</title>
+            <description>Raccolta ISO WINDOWS MAGAZINE</description> 
+            <link>https://archive.org/details/win-mag-108</link>
+           <atom:link href="https://archive.org/details/win-mag-108" rel="self" type="text/html"> 
+           </atom:link> 
+        <description>Raccolta ISO ECDL</description>
+        <item>ISO</item>
+            <link>https://archive.org/details/ecdlcollectionv-1.0</link>
+            <atom:link href="https://archive.org/details/ecdlcollectionv-1.0" rel="self" type="text/html">
+            </atom:link>
+</channel> 
+<!--qui eventuali altri canali che voglio dividere esempio emulatori-->
+<channel></channel>   
+</rss>

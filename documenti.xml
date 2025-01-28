@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<?xml-stylesheet type="text/xsl" href="docs.xsl"?>
+<!--dopo prologo seguire sintassi stile feed rss-->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Raccolta pdf</title>
+           <link>https://archive.org/details/simons-basic-guida-per-lutente-1983-commodore-it/Fluendo_Seraphic_HbbTV_Freeview/</link>
+           <atom:link href="https://archive.org/details/simons-basic-guida-per-lutente-1983-commodore-it/Fluendo_Seraphic_HbbTV_Freeview/" rel="self" type="text/html">
+        <description>Raccolta pdf</description>
+        <item>PDF</item>
+    </atom:link>
+</channel>    
+</rss>
