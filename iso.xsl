@@ -10,8 +10,9 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
       </head>
       <body>
         <h1>ISO Windows Magazine</h1>
-        <p>Segui questo <a href="https://archive.org/details/win-mag-108">link</a> per browser chromium</p>
-
+        <p>Segui questo <a href="https://archive.org/details/win-mag-108">link</a> per browser chromium(pdf)</p>
+        <p>Segui questo <a href="https://archive.org/details/win-mag-108">link</a> per le iso di windows magazine per browser chromium</p>
+        <p>Questo <a href="https://archive.org/details/ecdlcollectionv-1.0">link</a> per iso ecdl</p>
         <ul>
             <!-- Usando xlink:href per compatibilità con Firefox -->
           <li>  
